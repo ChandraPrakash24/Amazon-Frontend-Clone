@@ -29,12 +29,10 @@ Amazon, a name that resonates with millions of people across the globe, is not j
 
 ```bash
 git clone https://github.com/ChandraPrakash24/Amazon-Frontend-Clone.git
-
+```
+2. Copy Fullpath of index.html and paste it to the browser.
 
 # Technologies:
 * HTML5
 * CSS3
 * Javascript
-```
-
-2. Copy Fullpath of index.html and paste it to the browser.
