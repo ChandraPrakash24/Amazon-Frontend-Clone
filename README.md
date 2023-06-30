@@ -5,6 +5,8 @@
     <img alt="Screenshot" title="#Screenshot" src="/images/Screenshot 1.png" width="680px" />
 </div>
 
+<br>
+<br>
 
 Welcome to the Amazon Frontend Clone! This project is part of my frontend internship task at iCode, where I was given the exciting opportunity to create a clone of one of my favorite sites. Without a doubt, I chose Amazon, one of the world's most popular and innovative e-commerce platforms.
 
