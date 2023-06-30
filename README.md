@@ -1,17 +1,18 @@
-# Amazon Frontend Clone
+# Amazon Frontend Clone | iCode
 
-![Amazon Clone](amazon-clone-screenshot.png)
+<div align="center">
+    <img alt="Screenshot" title="#Screenshot" src="/images/Screenshot 1.png" width="680px" />
+</div>
 
-Welcome to the Amazon Frontend Clone! This project is part of my frontend internship task, where I was given the exciting opportunity to create a clone of one of my favorite sites. Without a doubt, I chose Amazon, one of the world's most popular and innovative e-commerce platforms.
+Welcome to the Amazon Frontend Clone! This project is part of my frontend internship task at iCode, where I was given the exciting opportunity to create a clone of one of my favorite sites. Without a doubt, I chose Amazon, one of the world's most popular and innovative e-commerce platforms.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Technologies Used](#technologies)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Introduction
 
@@ -36,3 +37,13 @@ git clone https://github.com/ChandraPrakash24/Amazon-Frontend-Clone.git
 * HTML5
 * CSS3
 * Javascript
+
+## Screenshots:
+
+<div align="center">
+    <img alt="Screenshot" title="#Screenshot" src="/images/Screenshot 2.png" width="680px" />
+</div>
+
+<div align="center">
+    <img alt="Screenshot" title="#Screenshot" src="/images/Screenshot 3.png" width="680px" />
+</div>
